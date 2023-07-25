@@ -1,6 +1,6 @@
 # hiwifi-ddns
 
-#### test
+#### test1
 
 hiwifi shell script,auto modify dnspod domain record value.
 
